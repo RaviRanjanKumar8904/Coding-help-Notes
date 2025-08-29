@@ -33,4 +33,4 @@ If you have Git installed, you can clone this repository to your computer. This 
 Open your terminal and run the following command:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/RaviRanjanKumar8904/Coding-help-Notes.git
